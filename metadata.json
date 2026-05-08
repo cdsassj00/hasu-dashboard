@@ -1,0 +1,6 @@
+{
+  "name": "K-Water Quality Dashboard",
+  "description": "한국수자원공사 하수처리장 일일 수질 데이터 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
